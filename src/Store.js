@@ -97,6 +97,10 @@ Developer Student Clubs is a program supported by Google Developers.`,
                     imgUrl: "Aravind Srinivasan"
                },
                {
+                    name: "Manikanta Reddy Thikkavarapu",
+                    imgUrl: "tmanikanta reddy"
+               },
+               {
                     name: "Srivathsan S",
                     imgUrl: "Sri Vathsan"
                },
