@@ -25,7 +25,7 @@ const eventPoster = importAll(
 export default class Events extends Component {
   state = {
     tempId: 0,
-    events: list.events // interim loading until api returns correct data.
+    events: list.events // interim loading until api returns correct data
   };
 
   componentDidMount(){
